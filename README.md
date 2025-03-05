@@ -1,4 +1,4 @@
-# Music_Store_Analysis
+# Music_Store_Analysis 
 
 Music Store Analysis using SQL 
 
@@ -9,6 +9,7 @@ Music Store Analysis using SQL
 
 # Database and Tools
 Postgre SQL
+
 PgAdmin4
 
 
