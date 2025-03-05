@@ -8,7 +8,8 @@ Music Store Analysis using SQL:
   management.
 
 Database and Tools:
-Postgre SQL
+
+Postgre SQL & 
 PgAdmin4
 
 
